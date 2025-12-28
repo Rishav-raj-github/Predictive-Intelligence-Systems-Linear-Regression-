@@ -141,6 +141,8 @@ PR Checklist:
 - [ ] Tests added/updated and passing
 - [ ] Docs/README updated if needed
 
+## 📚 Comprehensive Learning Notebooks\n\nEight production-ready Jupyter-style notebooks:\n\n1. **01_Data_Exploration_Analysis.py** - EDA\n2. **02_Feature_Scaling_Normalization.py** - Preprocessing\n3. **03_Model_Selection_Evaluation.py** - Model comparison\n4. **04_Regularization_Techniques.py** - Ridge/Lasso/ElasticNet\n5. **05_Multicollinearity_Diagnostics.py** - VIF & correlation\n6. **06_Cross_Validation_Hyperparameter.py** - CV & tuning\n7. **07_Residual_Analysis_Diagnostics.py** - Diagnostics\n8. **08_Production_Deployment_Best_Practices.py** - Deployment\n\n
+
 ## 🧾 License
 MIT License — see [LICENSE](LICENSE).
 
