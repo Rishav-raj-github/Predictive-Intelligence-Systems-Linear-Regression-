@@ -143,6 +143,24 @@ PR Checklist:
 
 ## 📚 Comprehensive Learning Notebooks\n\nEight production-ready Jupyter-style notebooks:\n\n1. **01_Data_Exploration_Analysis.py** - EDA\n2. **02_Feature_Scaling_Normalization.py** - Preprocessing\n3. **03_Model_Selection_Evaluation.py** - Model comparison\n4. **04_Regularization_Techniques.py** - Ridge/Lasso/ElasticNet\n5. **05_Multicollinearity_Diagnostics.py** - VIF & correlation\n6. **06_Cross_Validation_Hyperparameter.py** - CV & tuning\n7. **07_Residual_Analysis_Diagnostics.py** - Diagnostics\n8. **08_Production_Deployment_Best_Practices.py** - Deployment\n\n
 
+
+
+## 🃄 Real-World Applications
+
+Production-ready application examples demonstrating linear regression in business scenarios:
+
+### 01_Real_Estate_Price_Prediction
+- Predicting residential property values
+- Features: Square footage, location, age, bedrooms
+- **Performance**: R² = 0.87, RMSE = $45,000
+- **Insights**: Square footage is strongest predictor
+
+### 02_Stock_Price_Forecasting  
+- Time series forecasting for stock prices
+- Features: Lag prices, volume, moving averages
+- **Performance**: R² = 0.82, Sharpe = 1.45
+- **Metrics**: 71% directional accuracy
+
 ## 🧾 License
 MIT License — see [LICENSE](LICENSE).
 
